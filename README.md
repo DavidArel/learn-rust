@@ -1,4 +1,4 @@
-# HELLO WORLD ON RUST
+# Hello World on Rust
 
 Branch ini berisi contoh implementasi hello world menggunakan:
 
