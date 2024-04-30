@@ -1,4 +1,4 @@
-# HELLO WORLD ON RUST
+# Hello World
 
 Branch ini berisi contoh implementasi hello world menggunakan:
 
